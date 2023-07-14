@@ -202,6 +202,15 @@ shell/**/README
 smoke-co-alarm-app/**/README
 ```
 
+## SmartThings Device App example
+
+```{toctree}
+:glob:
+:maxdepth: 1
+
+st-device-app/**/README
+```
+
 ## Temperature measurement example
 
 ```{toctree}
